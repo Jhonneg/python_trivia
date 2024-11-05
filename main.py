@@ -1,7 +1,5 @@
-from click import prompt
 import requests
 import html
-import csv
 
 amount = input("Please enter the amount of questions you want: ")
 difficulty = input(
